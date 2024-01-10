@@ -2,8 +2,8 @@
 
 ### I'm a Frontend Developer.
 
-🏠 I'm currently living in Antalya, Turkey.
-💻 I'm currently working as a Frontend Developer.
+- 🏠 I'm currently living in Antalya, Turkey.
+- 💻 I'm currently working as a Frontend Developer.
 - 📫 How can you contact me contact@barisaksel.com
 
 <!--
