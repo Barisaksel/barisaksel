@@ -1,6 +1,6 @@
-  ### Hi there 👋 I'm Barış
+  ###                 Hi there 👋 I'm Barış
 
-  ### I'm a Frontend Developer.
+  ###                 I'm a Frontend Developer.
 
 - 🏠 I'm currently living in Antalya, Turkey.
 - 💻 I'm currently working as a Frontend Developer.
