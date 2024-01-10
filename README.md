@@ -1,10 +1,9 @@
-  ###                 Hi there 👋 I'm Barış
-
-  ###                 I'm a Frontend Developer.
+<h1 align="center">Hi there 👋 I'm Barış</h1>
+<h3 align="center">I'm a Frontend Developer.</h3>
 
 - 🏠 I'm currently living in Antalya, Turkey.
 - 💻 I'm currently working as a Frontend Developer.
-- 📫 How can you contact me contact@barisaksel.com
+- 📫 How can you contact me **contact@barisaksel.com**
 
 <!--
 **Barisaksel/barisaksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
