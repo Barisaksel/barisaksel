@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Barış
+
+### I'm a Frontend Developer.
+
+🏠 I'm currently living in Antalya, Turkey.
+💻 I'm currently working as a Frontend Developer.
+- 📫 How can you contact me contact@barisaksel.com
 
 <!--
 **Barisaksel/barisaksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
