@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Barış</h1>
 <h3 align="center">I'm a Jr. Software Developer.</h3>
 
-- 🏠 I'm currently living in Antalya, Turkey.
+- 🏠 I'm currently living in Tekirdağ, Turkey.
 - 💻 I'm currently working as a Software Developer.
 - 📫 How can you contact me **contact@barisaksel.com**
 
