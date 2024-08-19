@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Jr. Software Developer.</h3>
 
 - 🏠 I'm currently living in Istanbul, Turkey.
-- 💻 I'm currently working as a Software Developer.
+- 💻 I'm currently working as a Software Developer in Elekse.
 - 📫 How can you contact me **contact@barisaksel.com**
 
 <!--
