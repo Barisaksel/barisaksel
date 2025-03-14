@@ -3,7 +3,7 @@
 
 - 🏠 I'm currently living in Istanbul, Turkey.
 - 💻 I'm currently working as a Software Developer in Elekse Elektronik Para & Ödeme Kuruluşu A.Ş.
-- 📫 How can you contact me **contact@barisaksel.com**
+- 📫 How can you contact me **iletisim@barisaksel.com**
 
 <!--
 **Barisaksel/barisaksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
