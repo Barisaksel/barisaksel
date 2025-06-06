@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Barış</h1>
-<h3 align="center">I'm a Full Stack Developer.</h3>
+<h3 align="center">I'm a Software Developer.</h3>
 
 - 🏠 I'm currently living in Istanbul, Turkey.
 - 💻 I'm currently working as a Software Developer in Elekse Elektronik Para & Ödeme Kuruluşu A.Ş.
