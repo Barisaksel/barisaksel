@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Software Developer.</h3>
 
 - 🏠 I'm currently living in Istanbul, Turkey.
-- 💻 I'm currently working as a Software Developer in Elekse Elektronik Para & Ödeme Kuruluşu A.Ş.
+- 💻 I'm currently working as a Software Developer in Hoppa
 - 📫 How can you contact me **iletisim@barisaksel.com**
 
 <!--
